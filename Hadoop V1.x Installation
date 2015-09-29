@@ -1,1 +1,9 @@
+There are 3 modes in installation in Hadoop.
+1. Local (Standalone) Mode
+2. Pseudo-Distributed Mode
+3. Fully-Distributed Mode
 
+Basic requirements for installing hadoop 1.x is:
+1. Nix Operating system i.e linux or unix operating systems
+2. Java 1.7 or later
+3. SSH (Secure Shell)
