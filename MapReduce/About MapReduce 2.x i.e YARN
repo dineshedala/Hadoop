@@ -1,1 +1,4 @@
-MapReduce 2.x is also called as "Yarn Framework"
+MapReduce 2.x is also called as "Yarn Framework". In YARN framework, there are 3 deamons i.e.
+1. Resource Manager
+2. Node Manager
+3. Application Master
