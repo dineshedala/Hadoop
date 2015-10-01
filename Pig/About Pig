@@ -1,0 +1,4 @@
+* Pig is a Data-Flow language on top of Hadoop.
+* Pig is a higher level of abstraction over MR.
+* Pig is a typical ETL tool to perform data transformations over the data.
+* Pig provides Pig-Latin to express the data flow.
