@@ -2,3 +2,5 @@ MapReduce 2.x is also called as "Yarn Framework". In YARN framework we have 3 de
 1. Resource Manager
 2. Node Manager
 3. Application Master
+
+In YARN framework, the responsibilities of Job Tracker is divided into Resource Manager and Application Master.
