@@ -1,0 +1,3 @@
+* Apache Hive was developed at Facebook and donated to Apache Software Foundation.
+* Hive is a Data-Warehouse infrastructure on top Hadoop.
+* Hive is having SQL like language called Hive Query Language(HQL), which is used for Ad-hoc querying, Data Summarization and Reporting.
