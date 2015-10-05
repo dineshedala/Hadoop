@@ -1,0 +1,2 @@
+* Sqoop is a Bi-Directional tool to move data from RDBMS to HDFS and vice-versa.
+* Sqoop uses MR to perform the data migration.
