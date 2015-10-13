@@ -18,3 +18,10 @@ Basic requirements for installing hadoop 1.x is:
 
 ## Pseudo-Distributed Mode ##
 * In this mode all the hadoop deamons will be running in a single machine.
+* To install Hadoop in Pseudo-Distributed Mode, we need to change the following files:
+1. hadoop-env.sh
+2. core-site.xml
+3. hdfs-site.xml
+4. mapred-site.xml
+5. masters
+6. slaves
