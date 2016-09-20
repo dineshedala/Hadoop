@@ -36,5 +36,3 @@ and now apply changes into the current system
   5. masters
   6. slaves
 ```
-
-## HDFS-SITE.xml
