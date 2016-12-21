@@ -1,1 +1,1 @@
-Contains information related to the concepts and commands related to HDFS.
+Contains information related to concepts and commands of HDFS.
